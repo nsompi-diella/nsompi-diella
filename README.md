@@ -70,7 +70,7 @@ My goal is to become a backend engineer who creates impactful technology solutio
  <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=python"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
  <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=php"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
  <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=postgres"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=flutter,dart"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=flutter,dart"/></td> <td><img src="./assets/bar-flutter.svg" /></td> </tr>
  <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=git,github"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
  <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=mysql"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
  <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=figma"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
