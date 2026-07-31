@@ -38,11 +38,14 @@ My goal is to become a backend engineer who creates impactful technology solutio
 
 # 🛠 Tech Stack
 
-<table> <tr> <td valign="top"> <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=python,php"/> </td> <td valign="top">
+<table> <tr> <td valign="top">
+  <h3>Backend</h3><img src="https://skillicons.dev/icons?i=python,php"/> </td> <td valign="top">
+  <h3>Mobile Development</h3><img src="https://skillicons.dev/icons?i=flutter,dart"/> </td> <td valign="top">
     <h3>Databases</h3> <img src="https://skillicons.dev/icons?i=postgres,mysql"/> </td> </tr> <tr> <td valign="top"> 
-      <h3>Mobile Development</h3> <img src="https://skillicons.dev/icons?i=flutter,dart"/> </td> <td valign="top"> 
-        <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=git,github,vscode"/> </td> </tr> 
+      <h3>Version Controls</h3> <img src="https://skillicons.dev/icons?i=git,github"/> </td> <td valign="top"> 
+      <h3>UI/UX</h3> <img src="https://skillicons.dev/icons?i=figma"/> </td> <td valign="top"> 
+        <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=vscode"/> </td> </tr> 
+       
 </table>
 ---
 
@@ -63,13 +66,15 @@ My goal is to become a backend engineer who creates impactful technology solutio
 
 # 🗺️ Learning Roadmap
 <table>
-<tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=python"/></td> <td><img src="./assets/files/" /></td> </tr>
- <tr> <td width="160"> <b>FastAPI</b></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
-  <tr> <td width="160">🐘 <b>PostgreSQL</b></td> <td><img src="./assets/bar-postgresql.svg" /></td> </tr>
-  <tr> <td width="160">📱 <b>Flutter</b></td> <td><img src="./assets/bar-flutter.svg" /></td> </tr>
-  <tr> <td width="160">🐳 <b>Docker</b></td> <td><img src="./assets/bar-docker.svg" /></td> </tr>
-  <tr> <td width="160">🏗️ <b>System Design</b></td> <td><img src="./assets/bar-systemdesign.svg" /></td> </tr>
-  <tr> <td width="160">🔧 <b>Git / GitHub</b></td> <td><img src="./assets/bar-git.svg" /></td> </tr>
+
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=python"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=php"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=postgres"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=flutter,dart"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=git,github"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=mysql"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=figma"/></td> <td><img src="./assets/bar-fastapi.svg" /></td> </tr>
+ 
 </table>
 ---
 
