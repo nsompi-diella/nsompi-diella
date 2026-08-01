@@ -74,31 +74,27 @@ My goal is to become a backend engineer who creates impactful technology solutio
       <img src="./assets/bar-php.svg" />
     </td>
     <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=postgres"/><br>
-      <b>PostgreSQL</b><br>
-      <img src="./assets/bar-postgresql.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
       <img height="40px" src="https://skillicons.dev/icons?i=flutter,dart"/><br>
       <b>Flutter</b><br>
       <img src="./assets/bar-flutter.svg" />
     </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <img height="40px" src="https://skillicons.dev/icons?i=git,github"/><br>
       <b>Git/GitHub</b><br>
       <img src="./assets/bar-git.svg" />
     </td>
-  </tr>
-  <tr>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=postgres"/><br>
+      <b>PostgreSQL</b><br>
+      <img src="./assets/bar-postgresql.svg" />
+    </td>
     <td width="33%" align="center">
       <img height="40px" src="https://skillicons.dev/icons?i=figma"/><br>
       <b>Figma</b><br>
       <img src="./assets/bar-figma.svg" />
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
   </tr>
 </table>
 
