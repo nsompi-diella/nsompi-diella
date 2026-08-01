@@ -94,18 +94,11 @@ My goal is to become a backend engineer who creates impactful technology solutio
 </table>
 
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nsompi-diella&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nsompi-diella&theme=react&hide_border=false)<br/>
 
-<br>
 
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nsompi-diella&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🎯 Current Objectives
 
