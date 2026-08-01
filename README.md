@@ -83,30 +83,18 @@ My goal is to become a backend engineer who creates impactful technology solutio
 <table>
   <tr>
     <td width="50%">
-      <h4>📌 Simple church event </h4>
+      <h4>📌 Title </h4> 
       <p>Short description of what it does and the stack used.</p>
       <a href="#">🔗 Repository</a>
     </td>
     <td width="50%">
-      <h4>📌 Expense Tracking </h4>
-      <p>Short description of what it does and the stack used.</p>
-      <a href="#">🔗 Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📌 Pu libriary</h4>
-      <p>Short description of what it does and the stack used.</p>
-      <a href="#">🔗 Repository</a>
-    </td>
-    <td width="50%">
-      <h4>📌 Project 4</h4>
+      <h4>📌 Title </h4>
       <p>Short description of what it does and the stack used.</p>
       <a href="#">🔗 Repository</a>
     </td>
   </tr>
 </table>
----
+
 
 # 📊 GitHub Statistics
 
