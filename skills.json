@@ -1,9 +1,9 @@
 {
-  "bar-python": { "percent": 65, "color": "#3776AB" },
-  "bar-php": { "percent": 40, "color": "#777BB4" },
-  "bar-postgresql": { "percent": 55, "color": "#4169E1" },
-  "bar-flutter": { "percent": 50, "color": "#02569B" },
-  "bar-git": { "percent": 60, "color": "#F05032" },
-  "bar-mysql": { "percent": 45, "color": "#00758F" },
-  "bar-figma": { "percent": 20, "color": "#F24E1E" }
+  "bar-python": { "percent": 0, "color": "#3776AB" },
+  "bar-php": { "percent": 0, "color": "#777BB4" },
+  "bar-postgresql": { "percent": 0, "color": "#4169E1" },
+  "bar-flutter": { "percent": 0, "color": "#02569B" },
+  "bar-git": { "percent": 0, "color": "#F05032" },
+  "bar-mysql": { "percent":10, "color": "#00758F" },
+  "bar-figma": { "percent": 0, "color": "#F24E1E" }
 }
