@@ -39,7 +39,7 @@ My goal is to become a backend engineer who creates impactful technology solutio
 <table> <tr> <td valign="top">
   <h3>Backend</h3><img src="https://skillicons.dev/icons?i=python,php"/> </td> <td valign="top">
   <h3>Mobile Development</h3><img src="https://skillicons.dev/icons?i=flutter,dart"/> </td> <td valign="top">
-    <h3>Databases</h3> <img src="https://skillicons.dev/icons?i=postgres,mysql"/> </td> </tr> <tr> <td valign="top"> 
+    <h3>Databases</h3> <img src="https://skillicons.dev/icons?i=postgres"/> </td> </tr> <tr> <td valign="top"> 
       <h3>Version Controls</h3> <img src="https://skillicons.dev/icons?i=git,github"/> </td> <td valign="top"> 
       <h3>UI/UX</h3> <img src="https://skillicons.dev/icons?i=figma"/> </td> <td valign="top"> 
         <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=vscode"/> </td> </tr> 
@@ -89,11 +89,6 @@ My goal is to become a backend engineer who creates impactful technology solutio
       <img height="40px" src="https://skillicons.dev/icons?i=git,github"/><br>
       <b>Git/GitHub</b><br>
       <img src="./assets/bar-git.svg" />
-    </td>
-    <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=mysql"/><br>
-      <b>MySQL</b><br>
-      <img src="./assets/bar-mysql.svg" />
     </td>
   </tr>
   <tr>
