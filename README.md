@@ -43,7 +43,6 @@ My goal is to become a backend engineer who creates impactful technology solutio
       <h3>Version Controls</h3> <img src="https://skillicons.dev/icons?i=git,github"/> </td> <td valign="top"> 
       <h3>UI/UX</h3> <img src="https://skillicons.dev/icons?i=figma"/> </td> <td valign="top"> 
         <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=vscode"/> </td> </tr> 
-       
 </table>
 ---
 
@@ -61,25 +60,61 @@ My goal is to become a backend engineer who creates impactful technology solutio
 
 🔹 Open Source
 
-
-# 🗺️ Learning Roadmap
+## 🗺️ Learning Roadmap
 <table>
-
- <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=python"/></td> <td><img src="./assets/bar-python.svg" /></td> </tr>
- <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=php"/></td> <td><img src="./assets/bar-php.svg" /></td> </tr>
- <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=postgres"/></td> <td><img src="./assets/bar-postgresql.svg" /></td> </tr>
- <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=flutter,dart"/></td> <td><img src="./assets/bar-flutter.svg" /></td> </tr>
- <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=git,github"/></td> <td><img src="./assets/bar-git.svg" /></td> </tr>
- <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=mysql"/></td> <td><img src="./assets/bar-mysql.svg" /></td> </tr>
- <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=figma"/></td> <td><img src="./assets/bar-figma.svg" /></td> </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=python"/><br>
+      <b>Python</b><br>
+      <img src="./assets/bar-python.svg" />
+    </td>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=php"/><br>
+      <b>PHP</b><br>
+      <img src="./assets/bar-php.svg" />
+    </td>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=postgres"/><br>
+      <b>PostgreSQL</b><br>
+      <img src="./assets/bar-postgresql.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=flutter,dart"/><br>
+      <b>Flutter</b><br>
+      <img src="./assets/bar-flutter.svg" />
+    </td>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=git,github"/><br>
+      <b>Git/GitHub</b><br>
+      <img src="./assets/bar-git.svg" />
+    </td>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=mysql"/><br>
+      <b>MySQL</b><br>
+      <img src="./assets/bar-mysql.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <img height="40px" src="https://skillicons.dev/icons?i=figma"/><br>
+      <b>Figma</b><br>
+      <img src="./assets/bar-figma.svg" />
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
+</table>
  
+# 📖 Course 
 </table>
 <br>
 <table>
 <tr> <td width="100" align='center'>IT fundamental</td> <td><img src="./assets/course-it_fundamental.svg" /></td> </tr>
  <tr> <td width="100" align='center'>Database Design</td> <td><img src="./assets/course-database_design.svg" /></td> </tr>
 </table>
----
+
 
 ### ⭐ Featured Projects
 
