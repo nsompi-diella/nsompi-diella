@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Lovinci</h1>
+<h1>👋 Hi, I'm NSOMPI Lovinci</h1>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Backend+Engineering;Flutter+Development;Building+Reliable+Software" />
