@@ -65,14 +65,19 @@ My goal is to become a backend engineer who creates impactful technology solutio
 # 🗺️ Learning Roadmap
 <table>
 
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=python"/></td> <td><img src="./assets/bar-python.svg" /></td> </tr>
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=php"/></td> <td><img src="./assets/bar-php.svg" /></td> </tr>
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=postgres"/></td> <td><img src="./assets/bar-postgresql.svg" /></td> </tr>
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=flutter,dart"/></td> <td><img src="./assets/bar-flutter.svg" /></td> </tr>
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=git,github"/></td> <td><img src="./assets/bar-git.svg" /></td> </tr>
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=mysql"/></td> <td><img src="./assets/bar-mysql.svg" /></td> </tr>
- <tr> <td width="160" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=figma"/></td> <td><img src="./assets/bar-figma.svg" /></td> </tr>
+ <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=python"/></td> <td><img src="./assets/bar-python.svg" /></td> </tr>
+ <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=php"/></td> <td><img src="./assets/bar-php.svg" /></td> </tr>
+ <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=postgres"/></td> <td><img src="./assets/bar-postgresql.svg" /></td> </tr>
+ <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=flutter,dart"/></td> <td><img src="./assets/bar-flutter.svg" /></td> </tr>
+ <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=git,github"/></td> <td><img src="./assets/bar-git.svg" /></td> </tr>
+ <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=mysql"/></td> <td><img src="./assets/bar-mysql.svg" /></td> </tr>
+ <tr> <td width="100" align='center'> <img height='30px' src="https://skillicons.dev/icons?i=figma"/></td> <td><img src="./assets/bar-figma.svg" /></td> </tr>
  
+</table>
+<br>
+<table>
+<tr> <td width="100" align='center'>IT fundamental</td> <td><img src="./assets/course-it_fundamental.svg" /></td> </tr>
+ <tr> <td width="100" align='center'>Database Design</td> <td><img src="./assets/course-database_design.svg" /></td> </tr>
 </table>
 ---
 

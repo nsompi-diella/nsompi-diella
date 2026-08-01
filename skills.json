@@ -5,5 +5,7 @@
   "bar-flutter": { "percent": 0, "color": "#02569B" },
   "bar-git": { "percent": 0, "color": "#F05032" },
   "bar-mysql": { "percent":10, "color": "#00758F" },
-  "bar-figma": { "percent": 0, "color": "#F24E1E" }
+  "bar-figma": { "percent": 0, "color": "#F24E1E" },
+  "course-it_fundamental": { "percent": 0, "color": "#F24E1E" },
+  "course-database_design": { "percent": 0, "color": "#F24E1E" }
 }
