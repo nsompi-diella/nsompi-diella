@@ -1,9 +1,9 @@
 {
-  "python": { "percent": 65, "color": "#3776AB" },
-  "php": { "percent": 40, "color": "#777BB4" },
-  "postgresql": { "percent": 55, "color": "#4169E1" },
-  "flutter_dart": { "percent": 50, "color": "#02569B" },
-  "git_github": { "percent": 60, "color": "#F05032" },
-  "cli": { "percent": 45, "color": "#4EAA25" },
-  "figma": { "percent": 20, "color": "#F24E1E" }
+  "bar-python": { "percent": 65, "color": "#3776AB" },
+  "bar-php": { "percent": 40, "color": "#777BB4" },
+  "bar-postgresql": { "percent": 55, "color": "#4169E1" },
+  "bar-flutter": { "percent": 50, "color": "#02569B" },
+  "bar-git": { "percent": 60, "color": "#F05032" },
+  "bar-mysql": { "percent": 45, "color": "#00758F" },
+  "bar-figma": { "percent": 20, "color": "#F24E1E" }
 }
