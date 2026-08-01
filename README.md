@@ -116,8 +116,8 @@ My goal is to become a backend engineer who creates impactful technology solutio
  <tr> <td width="100" align='center'>Database Design</td> <td><img src="./assets/course-database_design.svg" /></td> </tr>
 </table>
 
-
-### ⭐ Featured Projects
+<!-- When i will start a project i will put it here -->
+<!-- ### ⭐ Featured Projects
 
 <table>
   <tr>
@@ -132,7 +132,7 @@ My goal is to become a backend engineer who creates impactful technology solutio
       <a href="#">🔗 Repository</a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 # 📊 GitHub Stats:
@@ -175,7 +175,7 @@ I care about:
 </a>
 
 
-<a href="nsompi.diella.lovinci@gmail.com">
+<a href="mailto:nsompi.diella.lovinci@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
