@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Python",
+        "progress": 75,
+        "color": "#3776AB"
+    },
+    {
+        "name": "PHP",
+        "progress": 45,
+        "color": "#777BB4"
+    },
+    {
+        "name": "PostgreSQL",
+        "progress": 60,
+        "color": "#336791"
+    },
+    {
+        "name": "Flutter",
+        "progress": 80,
+        "color": "#02569B"
+    },
+    {
+        "name": "Git",
+        "progress": 70,
+        "color": "#F05032"
+    },
+    {
+        "name": "MySQL",
+        "progress": 65,
+        "color": "#4479A1"
+    },
+    {
+        "name": "Figma",
+        "progress": 50,
+        "color": "#A259FF"
+    }
+]
