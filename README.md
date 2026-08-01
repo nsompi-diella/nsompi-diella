@@ -17,8 +17,6 @@ Backend Engineering • Mobile Development • Open Source
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=nsompi-diella&style=flat-square&color=2E9EF7"/>
-
 </div>
 
 
