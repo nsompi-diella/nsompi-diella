@@ -115,7 +115,8 @@ My goal is to become a backend engineer who creates impactful technology solutio
     <td width="50%">
       <h4>📌 Login UI </h4> 
       <p>Short description of what it does and the stack used.</p>
-      <a href="https://github.com/nsompi-diella/flutter_login_ui.git">🔗login_iu </a>
+      <a href="https://github.com/nsompi-diella/flutter_login_ui.git">🔗Repo </a> <br>
+      <a href="">🔗demo </a>
     </td>
     <!-- <td width="50%">
       <h4>📌 Title </h4>
