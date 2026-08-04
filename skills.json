@@ -1,5 +1,5 @@
 {
-  "bar-python": { "percent": 0, "color": "#3776AB" },
+  "bar-python": { "percent":32, "color": "#3776AB" },
   "bar-php": { "percent": 0, "color": "#777BB4" },
   "bar-postgresql": { "percent": 0, "color": "#4169E1" },
   "bar-flutter": { "percent": 0, "color": "#02569B" },
