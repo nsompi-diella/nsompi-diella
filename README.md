@@ -108,22 +108,22 @@ My goal is to become a backend engineer who creates impactful technology solutio
 </table>
 
 <!-- When i will start a project i will put it here -->
-<!-- ### ⭐ Featured Projects
+ ### ⭐ Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h4>📌 Title </h4> 
+      <h4>📌 Login UI </h4> 
       <p>Short description of what it does and the stack used.</p>
-      <a href="#">🔗 Repository</a>
+      <a href="https://github.com/nsompi-diella/flutter_login_ui.git">🔗login_iu </a>
     </td>
-    <td width="50%">
+    <!-- <td width="50%">
       <h4>📌 Title </h4>
       <p>Short description of what it does and the stack used.</p>
       <a href="#">🔗 Repository</a>
     </td>
-  </tr>
-</table> -->
+  </tr> -->
+</table>
 
 
 # 📊 GitHub Stats:
