@@ -69,11 +69,6 @@ My goal is to become a backend engineer who creates impactful technology solutio
       <img src="./assets/bar-python.svg" />
     </td>
     <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=php"/><br>
-      <b>PHP</b><br>
-      <img src="./assets/bar-php.svg" />
-    </td>
-    <td width="33%" align="center">
       <img height="40px" src="https://skillicons.dev/icons?i=flutter,dart"/><br>
       <b>Flutter</b><br>
       <img src="./assets/bar-flutter.svg" />
