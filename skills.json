@@ -1,5 +1,6 @@
 {
   "bar-python": { "percent":39, "color": "#3776AB" },
+  "bar-fastapi": { "percent":0, "color": "#3776AB" },
   "bar-postgresql": { "percent": 0, "color": "#4169E1" },
   "bar-flutter": { "percent": 0, "color": "#02569B" },
   "bar-git": { "percent": 0, "color": "#F05032" },
