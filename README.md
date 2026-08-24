@@ -99,13 +99,13 @@ My goal is to become a backend engineer who creates impactful technology solutio
 </table>
 
  
-# 📖 Course 
-</table>
+
+<!-- </table>
 <br>
 <table>
 <tr> <td width="100" align='center'>IT fundamental</td> <td><img src="./assets/course-it_fundamental.svg" /></td> </tr>
  <tr> <td width="100" align='center'>Database Design</td> <td><img src="./assets/course-database_design.svg" /></td> </tr>
-</table>
+</table> -->
 
 <!-- When i will start a project i will put it here -->
  ### ⭐ Featured Projects
