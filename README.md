@@ -37,7 +37,7 @@ My goal is to become a backend engineer who creates impactful technology solutio
 # 🛠 Tech Stack
 
 <table> <tr> <td valign="top">
-  <h3>Backend</h3><img src="https://skillicons.dev/icons?i=python,php"/> </td> <td valign="top">
+  <h3>Backend</h3><img src="https://skillicons.dev/icons?i=python,fastapi"/> </td> <td valign="top">
   <h3>Mobile Development</h3><img src="https://skillicons.dev/icons?i=flutter,dart"/> </td> <td valign="top">
     <h3>Database</h3> <img src="https://skillicons.dev/icons?i=postgres"/> </td> </tr> <tr> <td valign="top"> 
       <h3>Version Controls</h3> <img src="https://skillicons.dev/icons?i=git,github"/> </td> <td valign="top"> 
