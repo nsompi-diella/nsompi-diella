@@ -8,7 +8,7 @@ Software Engineering Student
 </h3>
 
 <p>
-Backend Engineering • Mobile Development • Open Source
+Backend Engineering • Mobile Development • Data • Open Source
 </p>
 
 <p>
