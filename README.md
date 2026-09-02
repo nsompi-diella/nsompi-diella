@@ -1,185 +1,106 @@
 <h1>👋 Hi, I'm NSOMPI Lovinci</h1>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Cloud+Engineering;Backend+Engineering;Flutter+Development;Building+Reliable+Software" />
-
-<h3>
-Software Engineering Student
-</h3>
+<h3>Software Engineering Student</h3>
 
 <p>
-Backend Engineering • Mobile Development • Data • Open Source
+ ☁️ Cloud & DevOps • 🔧 Python & FastAPI • 📱 Flutter Developer 
 </p>
 
 <p>
-🌍 Building reliable software that solves real-world problems.
+Building mobile applications and reliable backend services.
 </p>
-
-<br>
 
 </div>
-
 
 ---
 
 # 🚀 About Me
+I'm a Software Engineering student passionate about building reliable software and solving real-world problems. Currently focused on Cloud Engineering and Mobile Development. I enjoy designing applications, improving my software engineering skills, and learning how to build scalable and maintainable systems. My goal is to become a Cloud & backend engineer who creates impactful technology solutions.
 
-I'm a Software Engineering student passionate about building reliable software and solving real-world problems.
+----
 
-Currently focused on Backend Engineering and Mobile Development.
+## 🛠️ Skills
+**Cloud Engineering**
 
-I enjoy designing applications, improving my software engineering skills, and learning how to build scalable and maintainable systems.
+<img src="https://skillicons.dev/icons?i=linux" />
 
-My goal is to become a backend engineer who creates impactful technology solutions.
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
 
-# 🛠 Tech Stack
+## ⭐ Projects
 
-<table> <tr> <td valign="top">
-  <h3>Backend</h3><img src="https://skillicons.dev/icons?i=python,fastapi"/> </td> <td valign="top">
-  <h3>Mobile Development</h3><img src="https://skillicons.dev/icons?i=flutter,dart"/> </td> <td valign="top">
-    <h3>Database</h3> <img src="https://skillicons.dev/icons?i=postgres"/> </td> </tr> <tr> <td valign="top"> 
-      <h3>Version Controls</h3> <img src="https://skillicons.dev/icons?i=git,github"/> </td> <td valign="top"> 
-      <h3>UI/UX</h3> <img src="https://skillicons.dev/icons?i=figma"/> </td> <td valign="top"> 
-        <h3>Tools</h3> <img src="https://skillicons.dev/icons?i=vscode"/> </td> </tr> 
+<table> 
+  <tr>
+    <td width="50%"> 
+    <h4>📌 Login UI </h4> 
+      <p>Short description of what it does and the stack used.</p> <a href="https://github.com/nsompi-diella/flutter_login_ui.git">🔗Repo </a> <br> <a href="">🔗demo </a> 
+    </td> 
+  </tr> 
 </table>
+
 ---
 
-# 🚀 Current Focus
+## 🎯 Goal
 
-🔹 Backend Engineering
+Become a **Cloud & DevOps Engineer** while building strong skills in **Backend Development and Flutter**.
 
-🔹 REST API Design
+---
 
-🔹 Database Design
-
-🔹 Mobile Development
-
-🔹 Software Architecture
-
-🔹 Open Source
-
-## 🗺️ Learning Roadmap
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=python"/><br>
-      <b>Python</b><br>
-      <img src="./assets/bar-python.svg" />
-    </td>
-    <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=fastapi"/><br>
-      <b>FastAPI</b><br>
-      <img src="./assets/bar-fastapi.svg" />
-    </td>
-    <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=flutter,dart"/><br>
-      <b>Flutter</b><br>
-      <img src="./assets/bar-flutter.svg" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=git,github"/><br>
-      <b>Git/GitHub</b><br>
-      <img src="./assets/bar-git.svg" />
-    </td>
-    <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=postgres"/><br>
-      <b>PostgreSQL</b><br>
-      <img src="./assets/bar-postgresql.svg" />
-    </td>
-    <td width="33%" align="center">
-      <img height="40px" src="https://skillicons.dev/icons?i=figma"/><br>
-      <b>Figma</b><br>
-      <img src="./assets/bar-figma.svg" />
-    </td>
-  </tr>
-</table>
-
- 
-
-<!-- </table>
-<br>
-<table>
-<tr> <td width="100" align='center'>IT fundamental</td> <td><img src="./assets/course-it_fundamental.svg" /></td> </tr>
- <tr> <td width="100" align='center'>Database Design</td> <td><img src="./assets/course-database_design.svg" /></td> </tr>
-</table> -->
-
-<!-- When i will start a project i will put it here -->
- ### ⭐ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📌 Login UI </h4> 
-      <p>Short description of what it does and the stack used.</p>
-      <a href="https://github.com/nsompi-diella/flutter_login_ui.git">🔗Repo </a> <br>
-      <a href="">🔗demo </a>
-    </td>
-    <!-- <td width="50%">
-      <h4>📌 Title </h4>
-      <p>Short description of what it does and the stack used.</p>
-      <a href="#">🔗 Repository</a>
-    </td>
-  </tr> -->
-</table>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nsompi-diella&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nsompi-diella&theme=react&hide_border=false)<br/>
-
-
-
-# 🎯 Current Objectives
-
-[ ] Improve backend engineering skills
-- [ ] Build scalable APIs
-- [ ] Create production-ready applications
-- [ ] Improve software architecture knowledge
-
-
-# 🏗️ Engineering Principles
-
-I care about:
-
-- Clean and maintainable code
-- Good software architecture
-- Problem solving
-- Continuous learning
-- Building useful products
-<br>
-
-# 🤝 Let's Connect
-
-
-<p>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-
-<a href="mailto:nsompi.diella.lovinci@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.shion.dev/api?username=nsompi-diella&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://streak-stats.demolab.com/?user=nsompi-diella&theme=react&hide_border=false)<br/>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile
+<h3>🤝 Let's Connect</h3>
 
-*"Build. Learn. Improve. Repeat."*
+<br>
+
+<a href="https://github.com/nsompi-diella">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/2330537558566">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:nsompi.diella.lovinci@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br>
+<br>
+<br>
+
+⭐ Thanks for visiting my profile!
+
+<br>
+<br>
+
+<i>"Build. Learn. Improve. Repeat."</i>
 
 </div>
+
