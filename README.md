@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm NSOMPI Lovinci</h1>
+<h1>👋 Hi, I'm NSOMPI</h1>
 
 <div align="center">
 
