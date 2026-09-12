@@ -2,14 +2,17 @@
 
 <div align="center">
 
-<h3>Software Engineering Student</h3>
+<h3>Information technology Student</h3>
 
 <p>
- ☁️ Cloud & DevOps • 🔧 Python & FastAPI • 📱 Flutter Developer 
+ ☁️ Cloud & DevOps • 🔧 Python • 📱 Flutter Developer 
 </p>
 
 <p>
-Building mobile applications and reliable backend services.
+<p>
+Building software, backend services, and cloud infrastructure
+to solve real-world problems.
+</p>
 </p>
 
 </div>
