@@ -47,7 +47,7 @@ I'm a Software Engineering student passionate about building reliable software a
   <tr>
     <td width="50%"> 
     <h4>📌 Login UI </h4> 
-      <p>Short description of what it does and the stack used.</p> <a href="https://github.com/nsompi-diella/flutter_login_ui-.git">🔗Repo </a> <br> <a href="">🔗demo </a> 
+      <p>Simple login & singup authentication.</p> <a href="https://github.com/nsompi-diella/flutter_login_ui-.git">🔗Repo </a> <br> <a href="">🔗demo </a> 
     </td> 
   </tr> 
 </table>
