@@ -25,7 +25,7 @@ I'm a Software Engineering student passionate about building reliable software a
 ----
 
 ## 🛠️ Skills
-**SYSTEM ADMIN & Cloud Engineering**
+**System Administration & Cloud devops Engineering**
 
 <img src="https://skillicons.dev/icons?i=linux" />
 
