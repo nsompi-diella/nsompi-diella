@@ -5,7 +5,7 @@
 <h3>Information technology Student</h3>
 
 <p>
- ☁️ Cloud & DevOps • 🔧 Python • 📱 Flutter Developer 
+• ☁️ Cloud & DevOps •  🔧 Python •  📱 Flutter Developer  • 🖥️ Sys Admin 
 </p>
 
 <p>
